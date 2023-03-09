@@ -1,0 +1,33 @@
+{
+  "short_name": "Speed Typing",
+  "name": "Speed Typing",
+  "icons": [
+    {
+      "src": "/public/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": ".",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6",
+
+  "description": "Speed Typing",
+  "screenshots": [
+    {
+      "src": "/public/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/public/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    }
+  ]
+}
