@@ -48,4 +48,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgements
 
 - Unsplash for the background image.
-- Typing.com for the inspiration and exercise ideas.
+- Typing.com for inspiration and exercise ideas.
