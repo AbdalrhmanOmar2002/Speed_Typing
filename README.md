@@ -2,6 +2,8 @@
 
 Improve your typing speed with fun and challenging exercises.
 
+![Speed Typing Screenshot](/public/screenshot.png)
+
 ## Demo
 
 [View Demo](https://your-demo-link-here.com)
