@@ -2,7 +2,7 @@
 
 Improve your typing speed with fun and challenging exercises.
 
-![Speed Typing Screenshot](/image/Web capture_9-3-2023_1458_localhost.jpeg)
+![Speed Typing Screenshot](/image/web.jpeg)
 
 ## Demo
 
