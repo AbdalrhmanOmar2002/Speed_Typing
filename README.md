@@ -6,7 +6,7 @@ Improve your typing speed with fun and challenging exercises.
 
 ## Demo
 
-[View Demo]([https://speed-typing-39.netlify.app/])
+[View Demo](https://speed-typing-39.netlify.app/)
 
 ## Features
 
