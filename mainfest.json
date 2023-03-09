@@ -3,31 +3,40 @@
   "name": "Speed Typing",
   "icons": [
     {
-      "src": "/public/vite.svg",
-      "type": "image/svg+xml",
-      "sizes": "512x512"
-    }
-  ],
-  "id": "/?source=pwa",
-  "start_url": ".",
-  "background_color": "#3367D6",
-  "display": "standalone",
-  "scope": "/",
-  "theme_color": "#3367D6",
-
-  "description": "Speed Typing",
-  "screenshots": [
-    {
-      "src": "/public/vite.svg",
-      "type": "image/svg+xml",
-      "sizes": "540x720",
-      "form_factor": "narrow"
+      "src": "/public/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable any"
     },
     {
-      "src": "/public/vite.svg",
-      "type": "image/svg+xml",
+      "src": "/public/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#3367D6",
+  "theme_color": "#3367D6",
+  "description": "Improve your typing speed with fun and challenging exercises.",
+  "scope": "/",
+  "lang": "en",
+  "orientation": "portrait",
+  "prefer_related_applications": false,
+  "screenshots": [
+    {
+      "src": "/public/screenshot-1.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "label": "Main screen",
+      "primary": true
+    },
+    {
+      "src": "/public/screenshot-2.png",
+      "type": "image/png",
       "sizes": "720x540",
-      "form_factor": "wide"
+      "label": "Results screen"
     }
   ]
 }
